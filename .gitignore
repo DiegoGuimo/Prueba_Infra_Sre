@@ -1,0 +1,13 @@
+﻿.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+lambda.zip
+*.zip
+lambda/redis/
+lambda/redis-*.dist-info/
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
